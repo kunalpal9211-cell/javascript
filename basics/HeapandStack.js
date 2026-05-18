@@ -1,5 +1,5 @@
 let name = "Kunal";
-let anotherName = name;
+let anotherName = name;  
 anotherName = "chaiorcode"
 
 console.log(name);
