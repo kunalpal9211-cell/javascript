@@ -31,4 +31,4 @@ console.log(Math.floor(Date.now()/1000));
 
 newDate.toLocaleString('default', {
     weekday: "long",
-})f
+})
